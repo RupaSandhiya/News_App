@@ -8,6 +8,5 @@
 # Click an article heading to read the Full article and image Display
 # News API integration for fetching headlines and articles
 
-# Challenges encountered
 # Didn't worked with offline Reading for saved article and User Preferences.
 # If i get some more time I will complete this.
